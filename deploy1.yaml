@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: salashraf/devopsapp:v3
+          image: salashraf/devopsapp:v4
           ports:
             - containerPort: 3000
               protocol: TCP
